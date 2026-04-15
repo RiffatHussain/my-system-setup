@@ -4,4 +4,6 @@ So you just need to clone & run in the new server to setup the Installation in a
 if you want , you can configure according to your requirements.
 
 Just paste this in the terminal and boom
-curl -fsSL 
+
+For Ubuntu machine 
+curl -fsSL https://github.com/RiffatHussain/my-system-setup/blob/main/ubuntu-debian.sh | bash
