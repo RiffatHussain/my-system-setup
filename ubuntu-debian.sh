@@ -53,8 +53,8 @@ echo "⚠️  NOTE: Log out and back in (or run 'newgrp docker') to use Docker w
 
 echo "Installing the advanced tools to improve productivity"
 
-echo "Installing glances for better monit (upgraded version of htop)
+echo "Installing glances for better monit (upgraded version of htop)"
 sudo apt install glances
 
-echo "Installing ncdu (Best file size check interactively)
+echo "Installing ncdu (Best file size check interactively)"
 sudo apt install ncdu
