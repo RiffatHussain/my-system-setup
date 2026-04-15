@@ -1,5 +1,5 @@
 This repository contains all the server admins tools
-So you just need to clone & run in the new server to setup the Installation in an instant
+So you just need to run the below commands based on your machines & then boom, all tools will be installed.
 
 if you want , you can configure according to your requirements.
 
