@@ -5,5 +5,5 @@ if you want , you can configure according to your requirements.
 
 Just paste this in the terminal and boom
 
-For Ubuntu machine 
+For Ubuntu machine :
 curl -fsSL https://raw.githubusercontent.com/RiffatHussain/my-system-setup/main/ubuntu-debian.sh | bash
