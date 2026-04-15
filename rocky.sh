@@ -50,6 +50,8 @@ echo "⚠️  IMPORTANT: Logout & login again (or run 'newgrp docker') to use Do
 # Optional tools
 echo ""
 echo "📊 Installing productivity tools..."
-sudo dnf install -y glances ncdu
+sudo dnf install -y glances ncdu curl htop vim 
 
 echo "🎉 Setup complete!"
+
+
