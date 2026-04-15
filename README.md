@@ -7,3 +7,6 @@ Just paste this in the terminal and boom
 
 For Ubuntu machine :
 curl -fsSL https://raw.githubusercontent.com/RiffatHussain/my-system-setup/main/ubuntu-debian.sh | bash
+
+For rocky/Centos machine : 
+curl -fsSL https://raw.githubusercontent.com/RiffatHussain/my-system-setup/main/rocky.sh | bash
