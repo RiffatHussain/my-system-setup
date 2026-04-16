@@ -1,0 +1,26 @@
+#!/bin/bash
+
+TYPE=$1
+NAME=$2
+
+tmux new-session -d -s $NAME
+
+if [ "$TYPE" == "web" ]; then
+    tmux split-window -h
+    tmux split-window -v
+    
+    tmux send-keys -t 0 "cd ~/projects/$NAME && code ." C-m
+    tmux send-keys -t 1 "npm run dev" C-m
+    tmux send-keys -t 2 "tail -f logs/app.log" C-m
+
+elif [ "$TYPE" == "infra" ]; then
+    tmux split-window -h
+    
+    tmux send-keys -t 0 "htop" C-m
+    tmux send-keys -t 1 "ssh user@server" C-m
+
+elif [ "$TYPE" == "logs" ]; then
+    tmux send-keys -t 0 "tail -f /var/log/syslog" C-m
+fi
+
+tmux attach -t $NAME
