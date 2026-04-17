@@ -10,3 +10,10 @@ curl -fsSL https://raw.githubusercontent.com/RiffatHussain/my-system-setup/main/
 
 For rocky/Centos machine : 
 curl -fsSL https://raw.githubusercontent.com/RiffatHussain/my-system-setup/main/rocky.sh | bash
+
+For tmux-setup : 
+curl -fsSL https://raw.githubusercontent.com/RiffatHussain/my-system-setup/tmux-project-setup.sh
+chmod +x tmux-project-setup.sh
+./tmux-project-setup.sh web/infra your-ref-name
+For example : ./tmux-project-setup.sh web myIDE
+BOOm
