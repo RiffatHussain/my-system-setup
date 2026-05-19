@@ -14,3 +14,4 @@ docker volume ls
 echo "The above volumes are the total volumes"
 
 echo "This command will give you the volumes that are not used and then it will provide along with the 
+
