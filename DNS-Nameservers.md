@@ -18,16 +18,16 @@
 | 16 | [Hostinger]              | `ns*.dns-parking.com`          |
 | 17 | [Porkbun]                | `curitiba.ns.porkbun.com`      |
 | 18 | [Squarespace]            | `dns*.p*.nsone.net`            |
-| 19 | [Shopify]                | Often Cloudflare or custom     |
+| 19 | [Shopify]                | `Often Cloudflare or custom`   |
 | 20 | [Wix]                    | `ns*.wixdns.net`               |
-| 21 | [Webflow]                | Usually AWS/NS1 based          |
+| 21 | [Webflow]                | `Usually AWS/NS1 based`        |
 | 22 | [cPanel WHM Self Hosted] | `ns1.domain.com`               |
 | 23 | [Vultr DNS]              | `ns*.vultr.com`                |
 | 24 | [Alibaba Cloud DNS]      | `dns*.hichina.com`             |
 | 25 | [Oracle Cloud DNS]       | `*.oraclecloud.net`            |
 | 26 | [CloudNS]                | `ns*.cloudns.net`              |
 | 27 | [EasyDNS]                | `dns*.easydns.*`               |
-| 28 | [OpenDNS]                | Cisco/OpenDNS patterns         |
+| 28 | [OpenDNS]                | `Cisco/OpenDNS patterns`       |
 | 29 | [Dyn DNS]                | `ns*.dynect.net`               |
 | 30 | [FreeDNS]                | `ns*.afraid.org`               |
-| 31 | [Onamae.com]             |  dns2.onamae-expired.com.      |
+| 31 | [Onamae.com]             | `dns2.onamae-expired.com`      |
