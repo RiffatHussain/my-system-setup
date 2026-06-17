@@ -31,3 +31,4 @@
 | 29 | [Dyn DNS]                | `ns*.dynect.net`               |
 | 30 | [FreeDNS]                | `ns*.afraid.org`               |
 | 31 | [Onamae.com]             | `dns2.onamae-expired.com`      |
+| 32 | [NameBright]             | `nsg1.namebrightdns.com`       |
